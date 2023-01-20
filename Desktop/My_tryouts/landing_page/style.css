@@ -1,0 +1,68 @@
+body{
+    background-color: black;
+}
+
+nav img{
+    width: 25px;
+    color:white;
+    background-color: white;
+    margin-left:20px;
+}
+
+nav a{
+    text-decoration: none;
+    color: white;
+    margin-left: 20px;
+    font-size: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.nav{
+    margin-left: 70%;
+    padding-left: 100px;
+    display: flex;
+    /* align-content:center; */
+    justify-content: center;
+    position: absolute;
+    top: 0;
+    margin-top: 30px;
+}
+
+h1{
+    color: rgb(255, 0, 0);
+    font-size: 120px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    width: 800px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+section{
+    margin-left: 50%;
+    margin-top: 280px;
+    display:block;
+}
+
+section button{
+    margin-top:30px;
+    border-radius: 15px;
+    font-size: 30px;
+}
+
+.hand{
+    margin-top:-590px;
+    width: 00px;
+    margin-left: 0px;
+}   
+
+.logo{
+    width: 500px;
+    background-color: black;  
+    margin-left: 30px;
+    margin-top: 5px;
+    
+}
+
+nav{
+    margin-top: -0px;
+}
